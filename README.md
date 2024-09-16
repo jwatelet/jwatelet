@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jwatelet
 - 👀 I’m interested in software and application developpement
-- 🌱 I’m currently learning ruby on rails and CSS
-- 💞️ I’m looking to collaborate on ruby on rails projects
+- 🌱 I'm an Java, Scala and Ruby enthusiast
 - 📫 How to reach me :  https://johanwatelet.com/
 
 <!---
